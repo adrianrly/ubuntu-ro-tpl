@@ -1,0 +1,129 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="ro-RO">
+	<head profile="http://gmpg.org/xfn/11">
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Ubuntu România | Echipa din România</title>
+		<link rel="stylesheet" type="text/css" href="./css/style.css">
+		<link rel="shortcut icon" href="http://ubuntu.ro/wp-content/themes/light-wordpress-theme/images/favicon.ico" type="image/x-icon">
+	</head>
+
+	<body class="home page page-id-6 page-template-default linux chrome ch">
+
+	<div id="wrapper" class="hfeed">    
+		<div id="top-bar">
+		</div>
+		
+		<div id="header">
+			<div id="branding">
+				<div id="blog-title">
+					<span>
+						<a href="./images/Ubuntu România   Echipa din România.html" title="Ubuntu România" rel="home">Ubuntu România</a>
+					</span>
+				</div>	
+				<h1 id="blog-description">Echipa din România</h1>
+			</div><!--  #branding -->
+			<div id="access">
+				<div id="loco-header-menu">
+					<ul id="primary-header-menu">
+						<li id="nav_menu-3" class="widget-container widget_nav_menu"><div class="menu-principal-container"><ul id="menu-principal" class="menu"><li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="http://ubuntu.ro/descopera/">Descoperă Ubuntu</a></li>
+						<li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-35"><a href="http://ubuntu.ro/obtine/">Obține</a></li>
+						<li id="menu-item-31" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-31"><a href="http://ubuntu.ro/stiri/">Știri</a></li>
+						<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="http://ubuntu.ro/participa/">Implică-te</a></li>
+						<li id="menu-item-1269" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1269"><a href="http://ubuntu.ro/promoveaza/">Promovează</a></li>
+						<li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26"><a href="http://ubuntu.ro/despre-proiect/">Despre proiect</a></li>
+						<li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25"><a href="http://ubuntu.ro/contacte/">Contacte</a></li>
+						<li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="http://forum.ubuntu.ro/">Forum</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+		</div><!-- #header-->
+			<div id="secondary-header">
+				<div id="secondary-access" style="border-bottom-left-radius: 8px; border-bottom-right-radius: 8px; ">
+					<div id="loco-search-form">
+					
+						<form id="searchform" method="get" action="./images/Ubuntu România   Echipa din România.html">
+					<div>
+					<input id="s" name="s" type="text" value="" onfocus="if (this.value == &#39;&#39;) {this.value = &#39;&#39;;}" onblur="if (this.value == &#39;&#39;) {this.value = &#39;&#39;;}" size="32" tabindex="1">
+					<input id="searchsubmit" name="searchsubmit" type="submit" value="Caută" tabindex="2">
+				</div>
+						</form>            
+			</div>
+			<div id="loco-sub-header-menu">
+				<ul id="dynamic-secondary-header-menu">
+					<li id="text-2" class="widget-container widget_text">			
+						<div class="textwidget">Ubuntu 12.04 <a href="http://ubuntu.ro/2012/04/28/noutati-in-ubuntu-12-04-lts/">a fost lansat</a>! <a href="http://ubuntu.ro/obtine/">Descarcă-l acum</a>.</div>
+					</li>                
+				</ul>
+			</div>
+		</div>
+	</div>
+	   
+	<div id="main">
+		
+	</div>
+		
+	<div id="footer">
+		<div id="subsidiary">	
+			<div id="first" class="aside sub-aside">
+				<ul class="xoxo">
+					<li id="text-3" class="widgetcontainer widget_text">			
+						<div class="textwidget">
+							<p>Echipa Ubuntu România nu este afiliată firmei Canonical. Ubuntu și Canonical sunt mărci înregistrate <a href="http://www.canonical.com/">Canonical Ltd</a>.</p>
+							<p>Puteți citi <a href="http://ubuntu.ro/despre-noi">despre noi</a> sau <a href="http://ubuntu.ro/contacte">să ne contactați</a> pentru întrebări legate de resursele web și activitățile noastre. <a href="http://ubuntu.ro/despre-noi/termeni-legali">Termeni legali</a>.</p>
+							<p><a href="http://ubuntu.ro/feed"><img src="./images/rss.png" width="15px" alt="RSS"></a> <a href="http://www.facebook.com/ubuntulinux"><img src="./images/fb.png" width="15px" alt="Facebook"></a> <a href="http://twitter.com/planetubuntu"><img src="./images/tw.png" width="15px" alt="Twitter"></a></p>
+						</div>
+					</li>
+				</ul>
+			</div><!-- #first .aside -->
+
+			<div id="second" class="aside sub-aside">
+				<ul class="xoxo">
+					<li id="recent-posts-2" class="widgetcontainer widget_recent_entries">		<h3 class="widgettitle">Ultimele știri</h3>
+					<ul>
+							<li><a href="http://ubuntu.ro/2012/04/28/noutati-in-ubuntu-12-04-lts/" title="Noutăți în Ubuntu 12.04 LTS">Noutăți în Ubuntu 12.04 LTS</a></li>
+							<li><a href="http://ubuntu.ro/2012/04/10/scoala-altfel-cu-ubuntu/" title="Școala altfel cu Ubuntu">Școala altfel cu Ubuntu</a></li>
+							<li><a href="http://ubuntu.ro/2012/01/26/romania-a-semnat-acta/" title="Romania a semnat ACTA">Romania a semnat ACTA</a></li>
+							<li><a href="http://ubuntu.ro/2011/11/09/ubuntu-romania-la-osom-2011/" title="Ubuntu România la OSOM 2011">Ubuntu România la OSOM 2011</a></li>
+							<li><a href="http://ubuntu.ro/2011/10/17/ubuntu-11-10-oneiric-ocelot-a-fost-lansat/" title="Ubuntu 11.10 Oneiric Ocelot a fost lansat">Ubuntu 11.10 Oneiric Ocelot a fost lansat</a></li>
+							<li><a href="http://ubuntu.ro/2011/10/12/linux-install-fest-la-bucuresti/" title="Linux Install Fest la București">Linux Install Fest la București</a></li>
+							<li><a href="http://ubuntu.ro/2011/09/07/ziua-libertatii-programelor-software-freedom-day/" title="Ziua Libertății Programelor (Software Freedom Day)">Ziua Libertății Programelor (Software Freedom Day)</a></li>
+							</ul>
+					</li>
+				</ul>
+			</div><!-- #second .aside -->
+
+			<div id="third" class="aside sub-aside">
+				<ul class="xoxo">
+					<li id="linkcat-5" class="widgetcontainer widget_links">
+						<h3 class="widgettitle">Comunitate</h3>
+						<ul class="xoxo blogroll">
+							<li><a href="http://launchpad.net/~ubuntu-ro">Launchpad: Echipa din România</a></li>
+							<li><a href="http://planet.ubuntu.ro/">Planeta Ubuntu România</a></li>
+							<li><a href="https://wiki.ubuntu.com/RomanianTeam">Wiki-ul echipei</a></li>
+						</ul>
+					</li>
+					<li id="linkcat-4" class="widgetcontainer widget_links">
+						<h3 class="widgettitle">Resurse</h3>
+						<ul class="xoxo blogroll">
+							<li><a href="http://alege.softwareliber.ro/">Proiectul „Alege Software Liber”</a></li>
+							<li><a href="http://incearca.softwareliber.ro/">Proiectul „Încearcă Software Liber”</a></li>
+							<li><a href="http://rosedu.org/">ROSEdu</a></li>
+							<li><a href="http://softwareliber.ro/">Software Liber România</a></li>
+						</ul>
+					</li>
+				</ul>
+			</div><!-- #third .aside -->
+				
+		</div><!-- #subsidiary -->
+						
+		<div id="siteinfo">        
+			Propulsat de <a href="http://ro.wordpress.org/">WordPress</a>. Construit pe <a class="theme-link" href="http://themeshaper.com/thematic/" title="Thematic Theme Framework" rel="designer">Thematic Theme Framework</a>.    
+		</div><!-- #siteinfo -->
+		
+					
+	</div><!-- #footer -->
+	</div><!-- #wrapper .hfeed -->  
+	</body>
+</html>
